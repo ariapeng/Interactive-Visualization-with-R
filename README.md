@@ -1,6 +1,6 @@
 # Interactive-Visualization-with-R
 
-*Description of this project:  
+*Description of this project:  *
 1) Web-scrape over 355,000 dog food ratings and reviews over the past 9 years since its establishment  
 2) Interactive visualization of product diversity, review and rating details, statistical summary on Shiny Apps  
 3) Estimate annual sales and generate word clouds for furthur prediction  
