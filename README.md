@@ -7,7 +7,6 @@ First, I web scrapped needed data for all dog food at Chewy.com, cleaned them, t
 Second, I performed interactive visualization of these data, uploaded them on Shiny apps.
     Code of this part was in the file named `Code_shinyapps.R`.
 Last, the shiny apps link is posted.
-```{r}
+
 [Shinyapps](https://aria-peng.shinyapps.io/Special_Diet_and_Nutrition_Analysis_for_Dog_Food_Products/?_ga=2.220405402.303964769.1631769185-673490816.1631769185)
-```
 Hope you like the project. Please feel free to comment if you have any questions.
