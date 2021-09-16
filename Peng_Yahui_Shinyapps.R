@@ -1,6 +1,6 @@
 #### Yahui Peng ####
-# STA 6233 Interactive Visualization Project
-#Special Diet & Nutrition Analysis for Dog Food Products at Chewy.com
+#Interactive Visualization Project
+#Special Diet & Nutrition Analysis on Dog Food Products at Chewy.com
 
 ####Bring In Libraries and the RData####
 library(shiny)
@@ -9,7 +9,8 @@ library(scales)
 library(plotly)
 library(ggplot2)
 
-load(url("https://raw.githubusercontent.com/ariapeng/STA_6233_Spring2021/main/stats.RData"))
+#### Change the directory to your own
+load(url("https://*****/stats.RData"))
 
 #### Define UI for application that plots features of fake data ----------- ####
 ui <- fluidPage(
