@@ -9,7 +9,7 @@ library(scales)
 library(plotly)
 library(ggplot2)
 
-#### Change the directory to your own
+#### Change the **** to the directory of file on your computer
 load(url("https://*****/stats.RData"))
 
 #### Define UI for application that plots features of fake data ----------- ####
