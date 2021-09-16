@@ -8,5 +8,5 @@ Second, I performed interactive visualization of these data, uploaded them on Sh
     Code of this part was in the file named `Code_shinyapps.R`.  The clean dataset used in this step is `stats.r`.
 Last, the shiny apps link is posted.  
   
-[Shinyapps](https://aria-peng.shinyapps.io/Special_Diet_and_Nutrition_Analysis_for_Dog_Food_Products/?_ga=2.220405402.303964769.1631769185-673490816.1631769185)
+[Shinyapps](https://aria-peng.shinyapps.io/Special_Diet_and_Nutrition_Analysis_for_Dog_Food_Products/?_ga=2.220405402.303964769.1631769185-673490816.1631769185)  
 Hope you like the project. Please feel free to comment if you have any questions.
