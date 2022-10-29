@@ -1,9 +1,9 @@
 # Interactive-Visualization-with-R
 
 ***Description of this project:***
-1) Web-scrape over 355,000 dog food ratings and reviews over the past 9 years since its establishment  
+1) Web-scraped over 355,000 dog food ratings and reviews over the past 9 years since its establishment  
 2) Interactive visualization of product diversity, review and rating details, statistical summary on Shiny Apps  
-3) Estimate annual sales and generate word clouds for furthur prediction  
+3) Estimated annual sales and generate word clouds for furthur prediction  
   
 I'm a two-dog owner, and I love purchasing dog food and supplies from Chewy.com. It is an e-commerce giant in pet food field. So let's find out public opinion on its service.  
 First, I web scrapped needed data for all dog food at Chewy.com, cleaned them, then did some statistical analysis.  
